@@ -2,7 +2,7 @@
 
 This is a personal mirror of 5etools, for the official site please visit below:  
   
-Visit the [main site](https://5e.tools/index.html) or go to the unofficial GitHub [mirror](index.html).
+Visit the [main site](https://5e.tools/index.html)
 
 ## Help and Support
 
